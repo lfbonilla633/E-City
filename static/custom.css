@@ -1,0 +1,22 @@
+.navbar-brand,
+.navbar-nav li a {
+    line-height: 70px;
+    height: 70px;
+    padding-top: 0;
+}
+
+body {
+    font-family: "Source Sans Pro","Helvetica Neue","Open Sans",Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    line-height: 1.728571;
+}
+
+.page-header {
+    color: #000000;
+}
+
+/*@media (min-width: 1000px) {
+    .container{
+        max-width: 850px;
+    }
+}*/
